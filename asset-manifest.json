@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://kiwizu3.github.io/csb-4w58kk/static/css/main.04853dbe.chunk.css",
-    "main.js": "https://kiwizu3.github.io/csb-4w58kk/static/js/main.1dd13bd6.chunk.js",
-    "main.js.map": "https://kiwizu3.github.io/csb-4w58kk/static/js/main.1dd13bd6.chunk.js.map",
+    "main.js": "https://kiwizu3.github.io/csb-4w58kk/static/js/main.d69c6da4.chunk.js",
+    "main.js.map": "https://kiwizu3.github.io/csb-4w58kk/static/js/main.d69c6da4.chunk.js.map",
     "runtime-main.js": "https://kiwizu3.github.io/csb-4w58kk/static/js/runtime-main.9287d49a.js",
     "runtime-main.js.map": "https://kiwizu3.github.io/csb-4w58kk/static/js/runtime-main.9287d49a.js.map",
-    "static/js/2.7e0b89d3.chunk.js": "https://kiwizu3.github.io/csb-4w58kk/static/js/2.7e0b89d3.chunk.js",
-    "static/js/2.7e0b89d3.chunk.js.map": "https://kiwizu3.github.io/csb-4w58kk/static/js/2.7e0b89d3.chunk.js.map",
+    "static/js/2.096f60fc.chunk.js": "https://kiwizu3.github.io/csb-4w58kk/static/js/2.096f60fc.chunk.js",
+    "static/js/2.096f60fc.chunk.js.map": "https://kiwizu3.github.io/csb-4w58kk/static/js/2.096f60fc.chunk.js.map",
     "index.html": "https://kiwizu3.github.io/csb-4w58kk/index.html",
     "static/css/main.04853dbe.chunk.css.map": "https://kiwizu3.github.io/csb-4w58kk/static/css/main.04853dbe.chunk.css.map",
-    "static/js/2.7e0b89d3.chunk.js.LICENSE.txt": "https://kiwizu3.github.io/csb-4w58kk/static/js/2.7e0b89d3.chunk.js.LICENSE.txt"
+    "static/js/2.096f60fc.chunk.js.LICENSE.txt": "https://kiwizu3.github.io/csb-4w58kk/static/js/2.096f60fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9287d49a.js",
-    "static/js/2.7e0b89d3.chunk.js",
+    "static/js/2.096f60fc.chunk.js",
     "static/css/main.04853dbe.chunk.css",
-    "static/js/main.1dd13bd6.chunk.js"
+    "static/js/main.d69c6da4.chunk.js"
   ]
 }
